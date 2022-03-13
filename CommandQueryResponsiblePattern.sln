@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqrs", "Cqrs\Cqrs.csproj", "{75BD31EF-207B-4BFE-9177-F5D5E84E4E6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsBetter", "CqrsBetter\CqrsBetter.csproj", "{ADF808B7-F2F3-463D-949D-0D0B021DB652}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{75BD31EF-207B-4BFE-9177-F5D5E84E4E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75BD31EF-207B-4BFE-9177-F5D5E84E4E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75BD31EF-207B-4BFE-9177-F5D5E84E4E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF808B7-F2F3-463D-949D-0D0B021DB652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF808B7-F2F3-463D-949D-0D0B021DB652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF808B7-F2F3-463D-949D-0D0B021DB652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF808B7-F2F3-463D-949D-0D0B021DB652}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
